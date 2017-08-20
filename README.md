@@ -6,7 +6,8 @@ Github (not blocked in China),
 p2p, 
 encrypted data stream to look like random bytes, 
 file storage on innocuous-looking website, 
-receiver can download this, and then decrypt the data back into their original form.
+receiver can download this, and then decrypt the data back into their original form, 
+create a Plan B development/distribution process in case Github is disrupted or blocked.
 
 Technical Questions:
 What is the average page count (or number of words) in these books?
