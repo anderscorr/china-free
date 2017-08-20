@@ -1,6 +1,17 @@
 # china-free
 Provide censored materials to citizens in China who have no virtual private network (VPN). Start by providing 300 articles and 1000 ebooks censored by Cambridge University Press reported Aug 18 2017.
 
+Technical Suggestions:
+Github (not blocked in China)
+p2p
+Encrypted data stream to look like random bytes
+File storage on innocuous-looking website
+Receiver can download this, and then decrypt the data back into their original form.
+
+Technical Questions:
+What is the average page count (or number of words) in these books?
+
+Background:
 As background, Cambridge University Press (CUP) complied with a Chinese government demand, reported August 18, to remove 300 academic articles and 1000 ebooks from online availability in China. The list of censored books is not yet available, but here is a list of the censored articles:
 
 https://www.cambridge.org/core/services/aop-file-manager/file/59970028145fd05f66868bf5
