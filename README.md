@@ -4,9 +4,9 @@ Provide censored materials to citizens in China who have no virtual private netw
 Technical Suggestions:
 Github (not blocked in China), 
 p2p, 
-Encrypted data stream to look like random bytes, 
-File storage on innocuous-looking website, 
-Receiver can download this, and then decrypt the data back into their original form,
+encrypted data stream to look like random bytes, 
+file storage on innocuous-looking website, 
+receiver can download this, and then decrypt the data back into their original form.
 
 Technical Questions:
 What is the average page count (or number of words) in these books?
