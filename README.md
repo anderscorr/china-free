@@ -1,7 +1,11 @@
 # china-free
 Provide censored materials to citizens in China who have no virtual private network (VPN). Start by providing 300 articles and 1000 ebooks censored by Cambridge University Press reported Aug 18 2017.
 
-As background, Cambridge University Press (CUP) complied with a Chinese government demand, reported August 18, to remove 300 academic articles and 1000 ebooks from online availability in China. This is a violation of free speech for which there should be a technical solution. The solution requires providing the 300 academic articles and 1000 ebooks to citizens of China without their needing to use a VPN. News of the CUP decision is reported in the Guardian here:
+As background, Cambridge University Press (CUP) complied with a Chinese government demand, reported August 18, to remove 300 academic articles and 1000 ebooks from online availability in China. The list of censored books is not yet available, but here is a list of the censored articles:
+
+https://www.cambridge.org/core/services/aop-file-manager/file/59970028145fd05f66868bf5
+
+This is a violation of free speech for which there should be a technical solution. The solution requires providing the 300 academic articles and 1000 ebooks to citizens of China without their needing to use a VPN. News of the CUP decision is reported in the Guardian here:
 
 https://www.theguardian.com/world/2017/aug/19/cambridge-university-press-accused-of-selling-its-soul-over-chinese-censorship
 
