@@ -2,11 +2,11 @@
 Provide censored materials to citizens in China who have no virtual private network (VPN). Start by providing 300 articles and 1000 ebooks censored by Cambridge University Press reported Aug 18 2017.
 
 Technical Suggestions:
-Github (not blocked in China)
-p2p
-Encrypted data stream to look like random bytes
-File storage on innocuous-looking website
-Receiver can download this, and then decrypt the data back into their original form.
+Github (not blocked in China), 
+p2p, 
+Encrypted data stream to look like random bytes, 
+File storage on innocuous-looking website, 
+Receiver can download this, and then decrypt the data back into their original form,
 
 Technical Questions:
 What is the average page count (or number of words) in these books?
