@@ -61,3 +61,33 @@ Barry Sautman
 Journal: The China Quarterly / Volume 171 / 2002
 DOI: https://doi.org/10.1017/S0009443902410455
 Published online: 01 September 2002, pp. 741-779
+<<<<<<< HEAD
+
+# p18-21
+
+## DOI not found
+
+Uyghur Education and Social Order: The Role of Islamic Leadership in the Turpan Basin. By
+JIANXIN WANG. [Studia Culturae Islamicae, No. 76. Tokyo: Research Institute for Languages and
+Cultures of Asia and Africa, Tokyo University of Foreign Studies, 2004. ISBN: 4-87297-865-X.] -
+Nathan Light
+Journal: The China Quarterly / Volume 184 / 2005
+DOI: https://doi.org/10.1017/S0305741005370597
+Published online: 05 December 2005, pp. 990-992
+
+## not have access
+
+Xinjiang: China's Muslim Far Northwest. By Michael Dillon. [London and New York:
+RoutledgeCurzon, 2003. ix+201 pp. £65.00. ISBN 0-415-32051-8.] -
+Joanne N. Smith
+Journal: The China Quarterly / Volume 178 / 2004
+DOI: https://doi.org/10.1017/S0305741004280298
+Published online: 07 July 2004, pp. 519-521
+
+
+Xinjiang: China's Muslim Borderland. Edited by S. FREDERICK STARR. [New York and London: M.E.
+Sharpe, 2004. xv + 484 pp. ISBN 0-7656-1318-2.] -
+NICOLAS BECQUELIN
+Journal: The China Quarterly / Volume 186 / 2006
+DOI: https://doi.org/10.1017/S0305741006350242
+Published online: 05 July 2006, pp. 489-490
