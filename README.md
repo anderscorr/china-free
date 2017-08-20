@@ -3,7 +3,7 @@ Provide censored materials to citizens in China who have no virtual private netw
 
 Technical Suggestions:
 Github (not blocked in China), 
-p2p, 
+p2p, Btsync, 
 encrypted data stream to look like random bytes, 
 file storage on innocuous-looking website, 
 receiver can download this, and then decrypt the data back into their original form, 
