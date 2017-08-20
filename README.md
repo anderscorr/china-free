@@ -1,8 +1,8 @@
 # china-free
-Provide censored materials to citizens in China who have no virtual private network (VPN). Start by providing 300 articles and 1000 ebooks censored by Cambridge University Press reported Aug 18 2017.
+Provide censored materials to citizens in China behind the Great Firewall (GFW) who have no virtual private network (VPN). Start by providing 57 articles uploaded here (of the total 300 articles and 1000 ebooks censored by Cambridge University Press reported Aug 18 2017).
 
 Technical Suggestions:
-Github (not blocked in China), 
+Github (not blocked behind the GFW), 
 p2p, Btsync, 
 encrypted data stream to look like random bytes, 
 file storage on innocuous-looking website, 
